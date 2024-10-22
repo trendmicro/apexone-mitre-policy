@@ -2,8 +2,8 @@
 This repository contains policies were designed for the MITRE ATT&CK Evaluations. 
 
 Available policies:
-1. [2021 MITRE Policies](https://github.com/trendmicro/apexone-mitre-policy/tree/master/2021) (Trend Micro Apex One™ as a Service) 
-2. [2024 MITRE Policies](https://github.com/trendmicro/apexone-mitre-policy/tree/master/2024) (Trend Micro Apex One™ as a Service) (Trend Micro Security for Mac)
+1. [2021 MITRE Policies](https://github.com/trendmicro/apexone-mitre-policy/tree/master/2021) (Trend Micro Standard Endpoint Protection) 
+2. [2024 MITRE Policies](https://github.com/trendmicro/apexone-mitre-policy/tree/master/2024) (Trend Micro Standard Endpoint Protection) (Trend Micro Security for Mac)
 
 ## Support
 These policies can be tuned as per the Customer infrstructure and environment. Project contributors may be able to help, depending on their time and availability. Please be specific about what you're trying to do, your system, and steps to reproduce the problem.
